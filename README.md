@@ -3,7 +3,7 @@
 ## CS15 - Simple Student Grading System
 
 ### Project Description
-- A program to track items in a small shop.
+- A program to record student grades.
 
 
 ### Features

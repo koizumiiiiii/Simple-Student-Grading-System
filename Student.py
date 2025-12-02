@@ -37,8 +37,8 @@ class Student:
             return 'Fail'
 
     def display_info(self):
-        print(f"\nStudent Name: {self.name}")
+        print(f"=============================\nStudent Name: {self.name}")
         print(f"Student ID: {self.student_id}")
         print(f"Grades: {self.grades}")
         print(f"Average Grade: {self.calculate_average():.2f}")
-        print(f"Grade Letter: {self.get_grade_letter()}")
+        print(f"Grade Letter: {self.get_grade_letter()}\n=============================")
